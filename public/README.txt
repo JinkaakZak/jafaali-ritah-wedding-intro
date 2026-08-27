@@ -1,0 +1,1 @@
+Wedding photos are stored at the repository root as 1.png, 2.png, 3.png and 4.jpeg. This folder is reserved for Remotion public assets.
